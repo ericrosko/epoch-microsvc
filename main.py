@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
 """
-http://0.0.0.0:6738/98499/
-
+https://epoch-microsvc.herokuapp.com
 """
 
 import os
